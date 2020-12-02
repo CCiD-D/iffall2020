@@ -1,0 +1,49 @@
+body{
+    width: 90%;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+     background-color: azure; 
+}
+.bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: darkgray;
+    top: 0;
+    position: fixed;
+    max-width: 800px;
+    width: 90%;
+}
+.bar li {
+    float: left;
+}
+hi{
+    font-size: 50px;
+    line-height: 55px;
+    color: black
+}
+img{
+    max-width: 80%;
+    float: left;
+    
+}
+.profiles{
+    display: grid;
+    padding: 0;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 3%;
+    margin-right: 3px;
+    margin-left: 3px;
+}
+.pictures{
+    display: grid;
+    padding: 0;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 3%;
+    margin-right: 3px;
+    margin-left: 3px;
+}
+

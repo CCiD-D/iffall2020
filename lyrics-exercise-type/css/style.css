@@ -1,0 +1,43 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.1em;
+}
+h1 {
+            
+    color: rgb(1, 66, 131);
+    font-size:60px;
+    font-weight:bold;
+    letter-spacing: 0.1em;
+    font-family: Cambria;
+    text-align: center;
+          
+    }
+h2{
+    color: honeydew;
+    font-size:40px;
+    font-weight:bold;
+    letter-spacing: 0.1em;
+    font-family: Cambria;
+    text-align: center;
+}
+a{
+    color:rgb(1, 66, 131);
+}
+           
+.intro {
+    color: cornflowerblue;
+    font-size: 40px;
+}
+body{
+    background-color: rgb(161, 177, 161);
+    text-align: center;
+}
+p1{
+    color:rgb(47, 63, 114);
+}
+p2{
+    color: honeydew;
+}
+.cover{
+    width:100%;
+}

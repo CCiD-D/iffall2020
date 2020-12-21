@@ -1,0 +1,100 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+body>section.content {
+    left: 30%;
+    width: 70%;
+}
+body>section {
+    position: fixed;
+    top: 0;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 3rem;
+    overflow-y: auto;
+}
+header {
+    margin-bottom: 3rem;
+}
+ul {
+    margin: 0;
+    padding-left: 0;
+}
+ul.shows {
+    border-top: 1px solid black;
+}
+shows>li {
+    padding-top: 2rem;
+}
+li {
+    display: block;
+}
+section.cast ul li a img {
+    width: 100%;
+}
+.shows h1 {
+    font-size: 2.5rem;
+    font-weight: lighter;
+}
+.shows h2 {
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: lighter;
+}
+section {
+    display: block;
+}
+h2 {
+    margin: 2rem 0 0.5rem 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Raleway", sans-serif;
+}
+p {
+    line-height: 1.6;
+    margin: 0.5rem 0;
+}
+.cast>ul {
+    font-size: 0;
+    margin: -10px;
+    padding: 0;
+}
+.cast li {
+    width: 25%;
+    font-size: 1rem;
+    vertical-align: top;
+    padding: 10px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.see-all {
+    font-size: 0.8em;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+#unbreakable-kimmy-schmidt {
+    margin-top: 4rem;
+    padding-top: 2rem;
+}
+.seasons li {
+    display: inline-block;
+}
+body>section.challenges {
+    left: 0;
+    width: 30%;
+}
+section.challenges {
+    font-size: 12px;
+    background-color: #eee;
+}
+body>section {
+    position: fixed;
+    top: 0;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 3rem;
+    overflow-y: auto;
+}
+section.challenges ol {
+    padding-left: 1rem;
+}

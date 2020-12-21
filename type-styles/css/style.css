@@ -1,0 +1,73 @@
+html {
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
+    display: block;
+}
+body {
+    display: block;
+    font-size: 16px;
+    margin: 8px;
+    padding: 5vw 10vw;
+    
+}
+h1 {
+    font-size: 6.5vw;
+    font-weight: 700;
+    margin-bottom: 2vw;
+    color:orange
+}
+section h2 {
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
+    color: orange
+}
+h3{
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
+    color: slategrey;
+}
+.lit{
+    font-weight: lighter;
+}
+.fw500{
+    font-weight: 500;
+}
+.fw700{
+    font-weight: 700;
+}
+.fw900{
+    font-weight: 900;
+}
+.normal{
+    font-style: normal;
+}
+.italic{
+    font-style: italic;
+}
+.s5{
+    letter-spacing: .5em;
+}
+.s2{
+    letter-spacing: .02em;
+}
+.s8{
+    letter-spacing: -.08em;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.lowercase{
+    text-transform: lowercase;
+}
+.cap{
+    text-transform: capitalize;
+}
+.underline{
+    text-decoration: underline;
+}
+.linethrough{
+    text-decoration: line-through;
+}
+.overline{
+    text-decoration: overline;
+}
